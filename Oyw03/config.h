@@ -6,7 +6,7 @@
 #define USB_POLLING_INTERVAL_MS 1
 
 #undef DEBOUNCE
-#define DEBOUNCE 0
+#define DEBOUNCE 3
 
 #define USB_SUSPEND_WAKEUP_DELAY 0
 #define LAYER_STATE_8BIT
