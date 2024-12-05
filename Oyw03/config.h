@@ -3,6 +3,8 @@
   See config.h options at https://docs.qmk.fm/#/config_options?id=the-configh-file
 */
 
+#define USB_POLLING_INTERVAL_MS 1
+
 #undef DEBOUNCE
 #define DEBOUNCE 0
 
